@@ -1,50 +1,8 @@
 <p align="center">
   <h1>💫 About Me:</h1>
-  <strong>👋 Hi, I'm Musfiquer Prottoy.</strong><br>
-  A passionate and curious learner currently studying Computer Science & Engineering at BRAC University.<br>
-  I love exploring the world of technology through hands-on projects and collaborative problem-solving.
+  <strong>👋 Hi, I'm Maliha Binte Shamim.</strong><br>
 </p>
 
-
-
-<p align="center">
-  <h2> 🌐 Socials:</h2>
-  <a href="https://discord.gg/musfiquerprottoy"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://facebook.com/musfiquer.prottoy.1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://instagram.com/musfiquer_prottoy"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/musfiquer-prottoy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://pinterest.com/Coming"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"></a>
-  <a href="https://quora.com/profile/Musfiquer"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"></a>
-  <a href="https://reddit.com/user/Prottoy"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
-  <a href="https://stackoverflow.com/users/Prottoy"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="https://twitch.tv/coming"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch"></a>
-  <a href="https://x.com/MusfiquerR"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
-  <a href="https://youtube.com/@Nai"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-  <a href="https://codepen.io/Comingsoon"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen"></a>
-  <a href="mailto:musfiquer36@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
-  <h2> BRAC University CSE Resources: </h2>
-    <a href="https://github.com/musfiquerprottoy/BRACU-CSE110" target="_blank">
-    <img src="https://img.shields.io/badge/BRACU--CSE110-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE110 Repo" />
-      
-  <a href="https://github.com/musfiquerprottoy/BRACU-CSE111" target="_blank">
-    <img src="https://img.shields.io/badge/BRACU--CSE111-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE111 Repo" />
-  </a>
-      
-  <a href="https://github.com/musfiquerprottoy/BRACU-CSE220" target="_blank">
-    <img src="https://img.shields.io/badge/BRACU--CSE220-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE220 Repo" />
-  </a>
-  
-  <a href="https://github.com/musfiquerprottoy/BRACU-CSE221" target="_blank">
-    <img src="https://img.shields.io/badge/BRACU--CSE221-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE221 Repo" />
-  </a>
-  
-  <a href="https://github.com/musfiquerprottoy/BRACU-CSE330" target="_blank">
-    <img src="https://img.shields.io/badge/BRACU--CSE330-181717?style=for-the-badge&logo=github&logoColor=white" alt="BRACU-CSE330 Repo" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -78,45 +36,17 @@
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 <br></br>
 <p align="center">
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="View Portfolio">
   </a>
-  <a href="mailto:musfiquer36@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Send Email">
-  </a>
 </p>
 
-<p align="center">
-  <!-- Facebook -->
-  <a href="https://facebook.com/musfiquer.prottoy.1" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-circled--v1.png" alt="Find me on Facebook" width="48" height="48" style="border-radius:50%;">
-  </a>
-  <!-- Instagram -->
-  <a href="https://instagram.com/musfiquer_prottoy" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Find me on Instagram" width="48" height="48" style="border-radius:50%;">
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/musfiquer-prottoy" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Find me on LinkedIn" width="48" height="48" style="border-radius:50%;">
-  </a>
-  <!-- X (Twitter) -->
-  <a href="https://x.com/musfiquerR" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="Find me on X" width="48" height="48">
-  </a>
-  </a>
-</p>
+
