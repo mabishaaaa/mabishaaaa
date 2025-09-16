@@ -24,8 +24,8 @@ I am a **Multimodal Learning Researcher** and an **Aspiring AI Researcher** pass
 ---
 
 ## 📂 Featured Projects
-| Project | Description | Demo | Link |
-|---------|-------------|------|------|
+| Project | Description | Link |
+|---------|-------------|------|
 | **ISLAND JUMOER** | OPENGL GAME. | [GitHub](https://github.com/mabishaaaa/Island-Jumper.git) |
 | **BULLET FRENZY** | SHOOT THE ENEMIES. MADE BY OPENGL LIBRARIES. | [GitHub](https://github.com/mabishaaaa/BulletFrenzy.git) |
 ---
