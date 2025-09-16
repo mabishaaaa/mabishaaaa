@@ -1,12 +1,12 @@
 # Hi there, I'm Maliha Binte Shamim 👋
 
 ## 🌟 About Me
-I am a **Multimodal Learning Researcher** and an **Aspiring AI Researcher** passionate about turning complex problems into efficient solutions using AI, ML, and software development.  
+I am a **Multimodal Learning Researcher** and an **Aspiring AI Researcher** passionate about solving complex problems with AI, ML, and software development.  
 
-- 🔭 Currently exploring **Deep Learning**, **Computer Vision**, and **AI Optimization Algorithms**.  
-- 🌱 Learning **advanced AI algorithms**, **multimodal models**, and **full-stack development**.  
-- 💡 Interested in **AI research**, **data-driven solutions**, and **innovative tech projects**.  
-- 📫 Reach me at: [Your Email]
+- 🔭 Currently exploring **Deep Learning**, **Computer Vision**, and **AI Optimization Algorithms**  
+- 🌱 Learning **advanced AI algorithms**, **multimodal models**, and **full-stack development**  
+- 💡 Interested in **AI research**, **data-driven solutions**, and **innovative tech projects**  
+- 📫 Reach me at: [WWW.malihabinteshamim.com]  
 
 ---
 
@@ -23,47 +23,41 @@ I am a **Multimodal Learning Researcher** and an **Aspiring AI Researcher** pass
 
 ---
 
-## 📂 Projects & Repositories
-Here are some of my notable works:
-
-### 💻 Full Stack & Web Development
-- **[FOOD-DONATION-MANAGEMENT-SYSTEM](https://github.com/mabishaaaa/FOOD-DONATION-MANAGEMENT-SYSTEM)**  
-  Full-stack PHP system for managing and tracking food donations efficiently.
-
-### 🤖 AI & Machine Learning
-- Chip layout optimization, genetic algorithms, and multimodal learning experiments using Python.  
-- Hands-on projects on optimization algorithms, AI simulations, and predictive modeling.
-
-### 🌐 Frontend & React Projects
-- Interactive web apps and dashboards using **React** and **TailwindCSS**.  
-
+## 📂 Featured Projects
+| Project | Description | Demo | Link |
+|---------|-------------|------|------|
+| **ISLAND JUMOER** | OPENGL GAME. | [GitHub](https://github.com/mabishaaaa/Island-Jumper.git) |
+| **BULLET FRENZY** | SHOOT THE ENEMIES. MADE BY OPENGL LIBRARIES. | [GitHub](https://github.com/mabishaaaa/BulletFrenzy.git) |
 ---
 
 ## 📈 GitHub Stats
 ![Maliha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabishaaaa&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabishaaaa&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mabishaaaa&theme=radical)
+
+---
+
+## 🌈 Contribution Calendar
+![Maliha's GitHub Rainbow Contributions](https://activity-graph.herokuapp.com/graph?username=mabishaaaa&theme=react-dark&hide_border=true)
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy blending **research with coding**, making AI **practical and impactful**. 🚀  
-Also a coffee enthusiast ☕ and eternal problem solver 💡.
+I enjoy **blending research with coding**, making AI **practical and impactful**. 🚀  
+Also a **coffee enthusiast** ☕ and eternal **problem solver** 💡.
 
 ---
 
 ## 📫 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/maliha-binte-shamim/" target="_blank">
+  <a href="https://www.https://www.linkedin.com/in/maliha-binte-shamim/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maliha-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mabishaaaa" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@mabishaaaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:WWW.malihabinteshamim.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-YourEmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-**Let's connect and create amazing AI-powered projects together! 🚀**
+**Let's create amazing AI-powered projects together! 🚀**
