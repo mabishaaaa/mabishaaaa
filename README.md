@@ -38,7 +38,7 @@ I am a **Multimodal Learning Researcher** and an **Aspiring AI Researcher** pass
 ---
 
 ## 🌈 Contribution Calendar
-![Maliha's GitHub Rainbow Contributions](https://activity-graph.herokuapp.com/graph?username=mabishaaaa&theme=react-dark&hide_border=true)
+![Maliha's GitHub Contribution Graph](https://github-contribution-stats.vercel.app/api/?username=mabishaaaa)
 
 ---
 
@@ -50,10 +50,10 @@ Also a **coffee enthusiast** ☕ and eternal **problem solver** 💡.
 
 ## 📫 Connect with Me
 <p>
-  <a href="https://www.https://www.linkedin.com/in/maliha-binte-shamim/" target="_blank">
+ <a href="https://www.linkedin.com/in/maliha-binte-shamim/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maliha-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:WWW.malihabinteshamim.com">
+ <a href="mailto:hello@malihabinteshamim.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-YourEmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
